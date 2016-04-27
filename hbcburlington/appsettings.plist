@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseUrl</key>
+	<string>http://hbcburlington.faithnetwork.com</string>
+	<key>appGuid</key>
+	<string>af34b112-3ba9-4ec3-8e48-178bdfe728e6</string>
+	<key>clientName</key>
+	<string>HBC Burlington</string>
+	<key>eventShareText</key>
+	<string>Check out this event from Central Church Little Rock!</string>
+	<key>fontBold</key>
+	<string>HelveticaNeue-Bold</string>
+	<key>fontRegular</key>
+	<string>HelveticaNeue-Light</string>
+	<key>navbarTitleFont</key>
+	<string>HelveticaNeue-Bold</string>
+	<key>navbarRed</key>
+	<integer>106</integer>
+	<key>navbarGreen</key>
+	<integer>11</integer>
+	<key>navbarBlue</key>
+	<integer>40</integer>
+	<key>navbartitleRed</key>
+	<integer>255</integer>
+	<key>navbartitleGreen</key>
+	<integer>255</integer>
+	<key>navbartitleBlue</key>
+	<integer>255</integer>
+	<key>navbarbuttonsRed</key>
+	<integer>204</integer>
+	<key>navbarbuttonsGreen</key>
+	<integer>204</integer>
+	<key>navbarbuttonsBlue</key>
+	<integer>204</integer>
+	<key>tableBackgroundRed</key>
+	<integer>255</integer>
+	<key>tableBackgroundGreen</key>
+	<integer>255</integer>
+	<key>tableBackgroundBlue</key>
+	<integer>255</integer>
+	<key>tablecellTitleRed</key>
+	<integer>0</integer>
+	<key>tablecellTitleGreen</key>
+	<integer>0</integer>
+	<key>tablecellTitleBlue</key>
+	<integer>0</integer>
+	<key>navtableBackgroundRed</key>
+	<integer>0</integer>
+	<key>navtableBackgroundGreen</key>
+	<integer>0</integer>
+	<key>navtableBackgroundBlue</key>
+	<integer>0</integer>
+	<key>navtablecellTitleRed</key>
+	<integer>255</integer>
+	<key>navtablecellTitleGreen</key>
+	<integer>255</integer>
+	<key>navtablecellTitleBlue</key>
+	<integer>255</integer>
+	<key>navtableSeperatorRed</key>
+	<integer>51</integer>
+	<key>navtableSeperatorGreen</key>
+	<integer>51</integer>
+	<key>navtableSeperatorBlue</key>
+	<integer>51</integer>
+	<key>webviewBackgroundOpaque</key>
+	<true/>
+	<key>webviewBackgroundColorRed</key>
+	<integer>255</integer>
+	<key>webviewBackgroundColorGreen</key>
+	<integer>255</integer>
+	<key>webviewBackgroundColorBlue</key>
+	<integer>255</integer>
+</dict>
+</plist>
